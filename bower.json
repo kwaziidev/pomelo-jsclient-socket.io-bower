@@ -1,0 +1,19 @@
+{
+  "name": "pomelo-jsclient-socket.io",
+  "version": "0.0.1",
+  "authors": [
+    "gloomyzerg <gloomyzerg@126.com>"
+  ],
+  "description": "pomelo-jsclient-socket.io",
+  "main": "./lib/pomelo-client.js",
+  "keywords": [
+    "pomelo",
+    "jsclient",
+    "socket.io"
+  ],
+  "license": "MIT",
+  "homepage": "http://pomelo.netease.com/",
+  "dependencies": {
+    "socket.io-client": "0.9.16"
+  }
+}
