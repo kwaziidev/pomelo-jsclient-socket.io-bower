@@ -3,7 +3,7 @@ pomeloclient
 
 pomelo client for sioconnector
 
-These two clients are both for pomelo sioconnector, one is use pomelo-protocol, the other is not. The pomeloclient.js can not be used in IE 6,7,8, for there is some data structures is not available in low version of IE. So we introduce pomeloclient_ie.js, and it support all kinds of browers, including all versions of IE.
+These two clients are both for pomelo sioconnector, one is use pomelo-protocol, the other is not. The pomelo-client.js can not be used in IE 6,7,8, for there is some data structures is not available in low version of IE. So we introduce pomelo-client-ie.js, and it support all kinds of browers, including all versions of IE.
 
 ##Usage
 
